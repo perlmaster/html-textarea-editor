@@ -1,0 +1,23 @@
+/********************************************************************/
+/*                                                                  */
+/* File      : editor.css                                           */
+/*                                                                  */
+/* Author    : Barry Kimelman                                       */
+/*                                                                  */
+/* Created   : May 8, 2015                                          */
+/*                                                                  */
+/* Purpose   : CSS styling for HTML inline editor.                  */
+/*                                                                  */
+/********************************************************************/
+
+input.editor_input_field3 {
+	border: 1px solid black;
+	color: black;
+	font-weight: bold;
+	font-size: 16px;
+	font-family: Courier New, Courier, Arial;
+	background-color: #44AAFF;
+}
+
+.button1 { font-weight: bold; font-family: Arial; font-size: 14px; width: 200px; }
+.button2 { background: peru; color: white; font-weight: bold; font-family: Arial; font-size: 14px; width: 350px; }
